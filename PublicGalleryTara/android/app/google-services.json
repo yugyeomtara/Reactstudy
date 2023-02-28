@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "213533668240",
+    "project_id": "public-gallery-6359b",
+    "storage_bucket": "public-gallery-6359b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213533668240:android:901d59ba54f76c4caeb915",
+        "android_client_info": {
+          "package_name": "com.publicgallerytara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213533668240-31k6vmosl4l5bpi3lh1ai6ho23c86jge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.publicgallerytara",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "213533668240-2thh07ggcufg0aognh6d095vcsvhhrjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABfM6vPmqdPzBXPebhdi9PX5iSBFJEhLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213533668240-2thh07ggcufg0aognh6d095vcsvhhrjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
